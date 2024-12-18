@@ -1,0 +1,33 @@
+.contact {
+    color: white;
+    .lorem {
+        color: #9C9C9C;
+        text-align: center;
+        max-width: 700px;
+        margin: auto;
+        line-height: 25px;
+        margin-bottom: 50px;
+    }
+    h1 {
+        text-align: center;
+        font-size: 44px;
+    }
+    .cont {
+        width: 700px;
+        margin: auto;
+    }
+    input {
+        width: 100%;
+        margin: auto;
+        padding: 10px;
+        margin-bottom: 15px;
+    }
+    textarea {
+        width: 100%;
+        height: 100px;
+        padding: 10px;
+    }
+    label {
+        font-size: 14px;
+    }
+}

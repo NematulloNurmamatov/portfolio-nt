@@ -1,0 +1,35 @@
+.work {
+  color: white;
+}
+.work h1 {
+  text-align: center;
+}
+.work .solving {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+  line-height: 24px;
+}
+.work .flex {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  gap: 20px;
+}
+.work .flex div {
+  width: 46%;
+}
+.work .flex div img {
+  width: 100%;
+}
+.work .flex div h3 {
+  font-size: 25px;
+}
+.work .flex div p {
+  line-height: 25px;
+}
+.work .flex div button {
+  width: 240px;
+  padding: 15px;
+}/*# sourceMappingURL=work.css.map */

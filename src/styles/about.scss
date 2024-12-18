@@ -1,0 +1,43 @@
+.case__studies {
+    color: white;
+
+    h1 {
+        text-align: center;
+        font-size: 34px;
+    }
+
+    .solving {
+        width: 600px;
+        line-height: 25px;
+        margin: auto;
+        text-align: center;
+    }
+    .flex {
+        display: flex;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        justify-content: space-between;
+        gap: 20px;
+        align-items: center;
+        div {
+            width: 48%;
+            h4 {
+                display: inline;
+                color: #3F8E00;
+                background-color: #408e0025;
+                padding: 7px;
+                border-radius: 8px;
+            }
+            h3 {
+                font-size: 25px;
+            }
+            p {
+                font-size: 16px;
+                line-height: 24px;
+            }
+        }
+        img {
+            width: 100%;
+        }
+    }
+}
